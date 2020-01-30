@@ -3,9 +3,6 @@ remote_theme: abelcheung/beautiful-jekyll
 title: Dave Rowe
 description: Blog
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
   Resources:
@@ -13,17 +10,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
-
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
-
-# --- Background colour/image options --- #
-
-# Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -106,7 +93,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "github-abelcheung"
+disqus: ""
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
