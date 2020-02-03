@@ -13,18 +13,12 @@ This blog uses the following tools and technologies.
 - [StackEdit.io](). This is an online markdown editor. it can point to GitHub repositories in effect to create a free CMS for blogs.
 
 The setup took a couple of hours. No software is required, and aside from the cost of a domain name, the site is free to run.
-
-### Markdown enhancements
-
-
-### Post length
-
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE0NjgxMDk3ND
-gsLTIxMjI0MDA1NTMsLTE0NjU3OTcwODUsLTk4NjU4Njk3NCw0
-MjkwMTAzMDksNTExODEyNzAzXX0=
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0xMTczODM2OD
+YyLDE0NjgxMDk3NDgsLTIxMjI0MDA1NTMsLTE0NjU3OTcwODUs
+LTk4NjU4Njk3NCw0MjkwMTAzMDksNTExODEyNzAzXX0=
 -->
