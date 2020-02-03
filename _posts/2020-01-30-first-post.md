@@ -6,10 +6,10 @@ This post describes getting it up and running, and some future plans for writing
 
 The blog uses the following tools and technologies.
 
-- [GitHub pages](https://pages.github.com/). Github pages are a way of hosting webpages directly from GitHub repositories. 
+- [GitHub pages](https://pages.github.com/). These are a way of hosting webpages directly from GitHub repositories. 
 - [Jekyll](https://jekyllrb.com/). This is a static site generator. GitHub pages support Jekyll, and will rebuild a static site when committing changes to the repo.
-- [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/). There are many free Jekyll themes. This is one of the most popular, and supports GitHub pages 'remote themes'. This means the theme files can remain on a remote repository, to keep your own repository simple.
-- [Custom domain](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site). By default Github pages sites use github.io domain names. By pointing a DNS A record to GitHub servers, a custom domain can be used.
+- [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/). There are many free Jekyll themes. This is one of the most popular, and supports GitHub pages 'remote themes'. This means the theme files can remain on a remote repository, and will keep your own repository simple.
+- [Custom domain](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site). By default, Github pages sites use **github io** domain names. By pointing a DNS A record to GitHub servers, a custom domain can be used.
 - [StackEdit.io](). This is an online markdown editor. 
 
 The setup took a couple of hours. No software is required, and aside from the cost of a domain name, the site is free to run.
@@ -24,6 +24,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE2NzQzMDMyMT
-gsLTk4NjU4Njk3NCw0MjkwMTAzMDksNTExODEyNzAzXX0=
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0yMDM5MjkyNj
+A4LC05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
 -->
