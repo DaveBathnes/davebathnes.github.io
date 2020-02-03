@@ -6,7 +6,11 @@ This post describes getting it up and running, and some future plans
 
 The blog uses the following tools and technologies.
 
-- **Jekyll**. A static site gene
+- **Jekyll**. A static site generator.
+- **Minimal mistakes theme**
+- 
+
+### Markdown enhancements
 
 
 ### Post length
@@ -16,6 +20,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzcyMjkxMzgyLC
-05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0yMDM0MDQ1OT
+U0LC05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
 -->
