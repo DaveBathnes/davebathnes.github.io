@@ -1,16 +1,9 @@
----
-title: "First post"
-date: 2020-01-31T16:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - Markdown
-  - Mermaid
-  - Blog
----
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
-4iLCJoaXN0b3J5IjpbNDI5MDEwMzA5LDUxMTgxMjcwM119
+5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
+ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
+Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xuXG4iLCJoaXN0
+b3J5IjpbLTE1Mzc1NzQ2NDksNDI5MDEwMzA5LDUxMTgxMjcwM1
+19
 -->
