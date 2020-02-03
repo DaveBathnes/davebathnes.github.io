@@ -4,7 +4,7 @@ This post describes getting it up and running, and some future plans for writing
 
 ### Setup
 
-The blog uses the following tools and technologies.
+This blog uses the following tools and technologies.
 
 - [GitHub pages](https://pages.github.com/). These are a way of hosting webpages directly from GitHub repositories. 
 - [Jekyll](https://jekyllrb.com/). This is a static site generator. GitHub pages support Jekyll, and will rebuild a static site when committing changes to the repo.
@@ -24,7 +24,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0yMTIyNDAwNT
-UzLC0xNDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5MDEwMzA5LDUx
-MTgxMjcwM119
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE0NjgxMDk3ND
+gsLTIxMjI0MDA1NTMsLTE0NjU3OTcwODUsLTk4NjU4Njk3NCw0
+MjkwMTAzMDksNTExODEyNzAzXX0=
 -->
