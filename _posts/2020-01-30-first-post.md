@@ -1,14 +1,21 @@
 This is the first blog post in a new blog on software development and technology. 
 
-Ths post describes gettin
+This post describes getting it up and running, and some future plans
+
+### Setup
+
+The blog uses the following tools and technologies.
+
+- **Jekyll**. A static site gene
 
 
-##
+### Post length
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzIwNjc1NTUyMy
-wtOTg2NTg2OTc0LDQyOTAxMDMwOSw1MTE4MTI3MDNdfQ==
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzcyMjkxMzgyLC
+05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
 -->
