@@ -1,7 +1,7 @@
 title: Dave Rowe
 email:
 description: Blog
-twitter_username: davehacked
+twitter_username:
 github_username: davebathnes
 minimal_mistakes_skin: default
 search: true
@@ -48,9 +48,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/davehacked"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davebathnes"
