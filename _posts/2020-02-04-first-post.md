@@ -52,7 +52,7 @@ If you own a domain name you will need to change your DNS nameservers to use Clo
 
 The setup took a couple of hours. No software is required, and aside from the cost of a domain name, the site is fast and free to run.
 
-The repository for the blog is located at [https://github.com/DaveBathnes/davebathnes.github.io](https://github.com/DaveBathnes/davebathnes.github.io).
+The repository for the blog is located at [https://github.com/davebathnes/davebathnes.github.io](https://github.com/DaveBathnes/davebathnes.github.io).
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
@@ -60,6 +60,7 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOlstMjEyOTAxODUxOCwtMTUxMTExNzYxMywt
-OTU3MzM3NDIyLDgzNzkzNDc3NCwtNTA1Mzc3MjldfQ==
+IsImhpc3RvcnkiOlstMzg4MTU5MTkwLC0yMTI5MDE4NTE4LC0x
+NTExMTE3NjEzLC05NTczMzc0MjIsODM3OTM0Nzc0LC01MDUzNz
+cyOV19
 -->
