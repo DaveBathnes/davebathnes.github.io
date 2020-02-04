@@ -6,7 +6,7 @@ This blog uses the following tools and technologies.
 
 #### [GitHub pages](https://pages.github.com/). 
 
-These are a method of hosting webpages directly from GitHub repositories. All that is required is a repository set to be publicly visible. The repository either needs to be named in the format `username.github.io`, or 
+These are a method of hosting webpages directly from GitHub repositories. All that is required is a repository set to be publicly visible. The repository either needs to be named in the format `username.github.io`, or in the repository settings 
 
 #### [Jekyll](https://jekyllrb.com/)
 
@@ -27,13 +27,13 @@ The setup took a couple of hours. No software is required, and aside from the co
 The repository for the blog is located at [https://github.com/DaveBathnes/davebathnes.github.io](https://github.com/DaveBathnes/davebathnes.github.io).
 
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
-5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
-ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
-Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0yMzcwOTM2Mz
-MsMTcwODEyMTg4NiwtNzY3MTE3NDI5LDkyMjg2Njc4NiwtMTE3
-MzgzNjg2MiwxNDY4MTA5NzQ4LC0yMTIyNDAwNTUzLC0xNDY1Nz
-k3MDg1LC05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
-
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
+Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
+cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
+AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
+Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlstOD
+AwNDA0Nzg2LDE3MDgxMjE4ODYsLTc2NzExNzQyOSw5MjI4NjY3
+ODYsLTExNzM4MzY4NjIsMTQ2ODEwOTc0OCwtMjEyMjQwMDU1My
+wtMTQ2NTc5NzA4NSwtOTg2NTg2OTc0LDQyOTAxMDMwOSw1MTE4
+MTI3MDNdfQ==
 -->
