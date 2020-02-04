@@ -12,11 +12,11 @@ You could combine code and documentation repositories by publishing just a subdi
 
 #### [Jekyll](https://jekyllrb.com/)
 
-This is a static site generator which can build HTML from markdown files. GitHub pages support Jekyll, and will rebuild a static site when changes are committed to the repo.
+This is a static site generator which can build HTML from markdown files. GH pages support Jekyll, and will rebuild a static site when changes are committed to the repo.
 
 #### [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-There are many free Jekyll themes. This is one of the most popular, and supports GitHub pages 'remote themes'. This means the theme files can remain on a remote repository, and will keep your own repository simple. If using GitHub, to get started just copy or fork the contents of [this repository](https://github.com/mmistakes/mm-github-pages-starter).
+There are many free Jekyll themes. This is one of the most popular, and supports GH pages 'remote themes'. This means the theme files can remain on a remote repository, to keep your own repository simple. If using GitHub, just copy or fork the contents of [this repository](https://github.com/mmistakes/mm-github-pages-starter).
 
 #### [Custom domain](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 
@@ -33,8 +33,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
 Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
-Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlsxMT
-A4NzU3NTkzLC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
+Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlstMT
+IyMDU0MzE3LC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
 NDI5LDkyMjg2Njc4NiwtMTE3MzgzNjg2MiwxNDY4MTA5NzQ4LC
 0yMTIyNDAwNTUzLC0xNDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5
 MDEwMzA5LDUxMTgxMjcwM119
