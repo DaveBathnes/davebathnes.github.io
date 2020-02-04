@@ -2,7 +2,7 @@
 title:  "Setting up a blog"  
 date: 2020-02-04T09:30  
 categories:  
-  - blog  
+  - Blog  
 tags:  
   - Jekyll  
   - Markdown  
@@ -60,7 +60,7 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOlstMzg4MTU5MTkwLC0yMTI5MDE4NTE4LC0x
-NTExMTE3NjEzLC05NTczMzc0MjIsODM3OTM0Nzc0LC01MDUzNz
-cyOV19
+IsImhpc3RvcnkiOls2MzIzNjk0MTgsLTM4ODE1OTE5MCwtMjEy
+OTAxODUxOCwtMTUxMTExNzYxMywtOTU3MzM3NDIyLDgzNzkzND
+c3NCwtNTA1Mzc3MjldfQ==
 -->
