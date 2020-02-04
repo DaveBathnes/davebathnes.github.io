@@ -12,13 +12,16 @@ This blog uses the following tools and technologies.
 - [CloudFlare](https://www.cloudflare.com/en-gb/). GitHub provides SSL by default but if using a custom domain and alternative option needs to be used. This is a free option for adding SSL to your custom domain.
 
 The setup took a couple of hours. No software is required, and aside from the cost of a domain name, the site is free to run.
+
+The repository for the blog is located at [https://github.com/DaveBathnes/davebathnes.github.io](https://github.com/DaveBathnes/davebathnes.github.io).
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzkyMjg2Njc4Ni
-wtMTE3MzgzNjg2MiwxNDY4MTA5NzQ4LC0yMTIyNDAwNTUzLC0x
-NDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5MDEwMzA5LDUxMTgxMj
-cwM119
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy03NjcxMTc0Mj
+ksOTIyODY2Nzg2LC0xMTczODM2ODYyLDE0NjgxMDk3NDgsLTIx
+MjI0MDA1NTMsLTE0NjU3OTcwODUsLTk4NjU4Njk3NCw0MjkwMT
+AzMDksNTExODEyNzAzXX0=
 -->
