@@ -2,13 +2,13 @@
 title:  "Setting up a blog"  
 date: 2020-02-04T09:30  
 categories:  
-- blog  
+  - blog  
 tags:  
-- Jekyll  
-- Markdown  
-- Blog  
-- Cloudflare  
-- GitHub  
+  - Jekyll  
+  - Markdown  
+  - Blog  
+  - Cloudflare  
+  - GitHub  
 published:  false
 ---
 
@@ -60,6 +60,6 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOlstODk4NzAwOTAxLC0xNTExMTE3NjEzLC05
-NTczMzc0MjIsODM3OTM0Nzc0LC01MDUzNzcyOV19
+IsImhpc3RvcnkiOlstMTgyMTY1NDc1NywtMTUxMTExNzYxMywt
+OTU3MzM3NDIyLDgzNzkzNDc3NCwtNTA1Mzc3MjldfQ==
 -->
