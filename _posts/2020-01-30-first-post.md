@@ -6,13 +6,13 @@ This blog uses the following tools and technologies.
 
 #### [GitHub pages](https://pages.github.com/). 
 
-These are a way of hosting web pages from GitHub repositories. All that is required is a repository set to be publicly visible. The repository either needs to be named in the format `username.github.io`, or by selecting the GH pages options in the repository settings.
+These are a way of hosting web pages from GitHub repositories. All that is required is a public repository. The repository either needs to be named in the format `username.github.io`, or you can choose GH pages options in the repository settings.
 
 You could combine code and documentation repositories by publishing just a subdirectory as a set of GH pages (e.g. a `docs` directory).
 
 #### [Jekyll](https://jekyllrb.com/)
 
-This is a static site generator. GitHub pages support Jekyll, and will run the rebuild of a static site when changes are committed to the repo.
+This is a static site generator which can build HTML from markdown files. GitHub pages support Jekyll, and will rebuild a static site when changes are committed to the repo.
 
 #### [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
@@ -33,8 +33,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
 Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
-Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlsxOT
-M5NjY3NTQzLC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
+Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlsxMT
+A4NzU3NTkzLC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
 NDI5LDkyMjg2Njc4NiwtMTE3MzgzNjg2MiwxNDY4MTA5NzQ4LC
 0yMTIyNDAwNTUzLC0xNDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5
 MDEwMzA5LDUxMTgxMjcwM119
