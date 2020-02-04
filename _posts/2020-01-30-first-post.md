@@ -20,8 +20,12 @@ There are many free Jekyll themes. This is one of the most popular, and supports
 
 #### [Custom domain](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 
-By default, Github pages sites use `github.io` domain names. By pointing a DNS record to GitHub servers, a custom domain can be used instead.
-- [StackEdit.io](). This is an online markdown editor. it can point to GitHub repositories in effect to create a free CMS for blogs.
+By default, Github pages sites use `github.io` domain names. By pointing a DNS record to GitHub servers, a custom domain can be used instead. The name is then added to the repository settings.
+
+#### [StackEdit.io](https://stackedit.io/app).
+
+This is an online markdown editor. It can point to GitHub repositories, providing an easy way of creating and editing content.
+
 - [CloudFlare](https://www.cloudflare.com/en-gb/). GitHub provides SSL by default but if using a custom domain and alternative option needs to be used. This is a free option for adding SSL to your custom domain.
 
 The setup took a couple of hours. No software is required, and aside from the cost of a domain name, the site is free to run.
@@ -34,8 +38,8 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
 Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlstMT
-IyMDU0MzE3LC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
-NDI5LDkyMjg2Njc4NiwtMTE3MzgzNjg2MiwxNDY4MTA5NzQ4LC
-0yMTIyNDAwNTUzLC0xNDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5
-MDEwMzA5LDUxMTgxMjcwM119
+AxNTUzMzI5NiwtODAwNDA0Nzg2LDE3MDgxMjE4ODYsLTc2NzEx
+NzQyOSw5MjI4NjY3ODYsLTExNzM4MzY4NjIsMTQ2ODEwOTc0OC
+wtMjEyMjQwMDU1MywtMTQ2NTc5NzA4NSwtOTg2NTg2OTc0LDQy
+OTAxMDMwOSw1MTE4MTI3MDNdfQ==
 -->
