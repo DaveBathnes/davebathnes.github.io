@@ -30,7 +30,7 @@ This is an online markdown editor. It can point to GitHub repositories, providin
 
 GitHub provides SSL by default, but if using a custom domain an name then an alternative option needs to be used. CloudFlare is a free option for adding SSL to your custom domain.
 
-If you own a domain name you will need to change your DNS nameservers to use CloudFlare ones, and then use CloudFlare . CF will automatically migrate exis
+If you own a domain name you will need to change your DNS nameservers to use CloudFlare ones, and then use CloudFlare to point the DNS to GitHub servers. CF will automatically migrate existing DNS records to make this process easier.
 
 ### Summary
 
@@ -43,8 +43,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
 Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
-Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlsxMT
-kxMjgyNzU1LC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
+Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlstOT
+Y0ODcyNzY2LC04MDA0MDQ3ODYsMTcwODEyMTg4NiwtNzY3MTE3
 NDI5LDkyMjg2Njc4NiwtMTE3MzgzNjg2MiwxNDY4MTA5NzQ4LC
 0yMTIyNDAwNTUzLC0xNDY1Nzk3MDg1LC05ODY1ODY5NzQsNDI5
 MDEwMzA5LDUxMTgxMjcwM119
