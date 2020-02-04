@@ -42,9 +42,6 @@ author:
   avatar : "/assets/images/belleandsebastian_av.jpg"
   bio    : "Developer"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/davehacked"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davebathnes"
