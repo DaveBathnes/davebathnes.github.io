@@ -6,7 +6,7 @@ This blog uses the following tools and technologies.
 
 #### [GitHub pages](https://pages.github.com/)
 
-These are a way of hosting web pages from public GitHub repositories. The repository either needs to be named in the format `username.github.io`, or you can choose GH pages publishing options in the repository settings.
+These are a way of hosting web pages from public GitHub repositories. The repository either needs to be named in the format `username.github.io` (like this one), or you can choose GH pages publishing options in the repository settings.
 
 You could combine code and documentation repositories by publishing just a subdirectory as a set of GH pages (e.g. a `docs` directory).
 
@@ -44,5 +44,6 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOls4Mzc5MzQ3NzQsLTUwNTM3NzI5XX0=
+IsImhpc3RvcnkiOlstOTU3MzM3NDIyLDgzNzkzNDc3NCwtNTA1
+Mzc3MjldfQ==
 -->
