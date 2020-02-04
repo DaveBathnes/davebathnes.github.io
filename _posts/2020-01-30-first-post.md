@@ -10,7 +10,7 @@ These are a way of hosting webpages directly from GitHub repositories. All that 
 
 #### [Jekyll](https://jekyllrb.com/)
 
-This is a static site generator. GitHub pages support Jekyll, and will rebuild a static site when committing changes to the repo.
+This is a static site generator. GitHub pages support Jekyll, and will run the rebuild of a static site when changes are committed to the repo.
 
 #### [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
@@ -31,8 +31,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE3MDgxMjE4OD
-YsLTc2NzExNzQyOSw5MjI4NjY3ODYsLTExNzM4MzY4NjIsMTQ2
-ODEwOTc0OCwtMjEyMjQwMDU1MywtMTQ2NTc5NzA4NSwtOTg2NT
-g2OTc0LDQyOTAxMDMwOSw1MTE4MTI3MDNdfQ==
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6Wy0xMDk4NzY5Mj
+M0LDE3MDgxMjE4ODYsLTc2NzExNzQyOSw5MjI4NjY3ODYsLTEx
+NzM4MzY4NjIsMTQ2ODEwOTc0OCwtMjEyMjQwMDU1MywtMTQ2NT
+c5NzA4NSwtOTg2NTg2OTc0LDQyOTAxMDMwOSw1MTE4MTI3MDNd
+fQ==
 -->
