@@ -10,7 +10,7 @@ These are a way of hosting web pages from public GitHub repositories. The reposi
 
 You could combine code and documentation repositories by publishing just a subdirectory as a set of GH pages (e.g. a `docs` directory).
 
-GH pages are also a really good way of hosting JavaScript framework applications e.g. React, Angular, or Vue.Js. One branch could hold the
+GH pages are also a really good way of hosting JavaScript framework applications e.g. React, Angular, or Vue.Js. One branch could hold the code, while another branch holds the built application, and is published online.
 
 #### [Jekyll](https://jekyllrb.com/)
 
@@ -46,6 +46,6 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOlstMTAxNjU0ODk3LC05NTczMzc0MjIsODM3
-OTM0Nzc0LC01MDUzNzcyOV19
+IsImhpc3RvcnkiOlstMTUxMTExNzYxMywtOTU3MzM3NDIyLDgz
+NzkzNDc3NCwtNTA1Mzc3MjldfQ==
 -->
