@@ -26,11 +26,11 @@ By default, Github pages sites use `github.io` domain names. By pointing a DNS r
 
 This is an online markdown editor. It can point to GitHub repositories, providing an easy way of creating and editing content.
 
-#### [CloudFlare](https://www.cloudflare.com/en-gb/)
+#### [Cloudflare](https://www.cloudflare.com/en-gb/)
 
-GitHub provides SSL by default, but if using a custom domain an name then an alternative option needs to be used. CloudFlare is a free option for adding SSL to your custom domain.
+GitHub provides SSL by default, but if using a custom domain an name then an alternative option needs to be used. Cloudflare is a free option for adding SSL to your custom domain.
 
-If you own a domain name you will need to change your DNS nameservers to use CloudFlare ones, and then use CloudFlare to point the DNS to GitHub servers. CF will automatically migrate existing DNS records to make this process easier.
+If you own a domain name you will need to change your DNS nameservers to use Cloudflare ones, and then use Cloudflare to point the DNS to GitHub servers. CF will automatically migrate existing DNS records to make this process easier.
 
 ### Summary
 
@@ -40,9 +40,9 @@ The repository for the blog is located at [https://github.com/DaveBathnes/daveba
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiU2V0dGluZyB1cCBhIG
-Jsb2dcIlxuZGF0ZTogMjAyMC0wMS0zMVQxNjowMFxuY2F0ZWdv
+Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
-AtIE1hcmtkb3duXG4gIC0gTWVybWFpZFxuICAtIEJsb2dcbnB1
-Ymxpc2hlZDogZmFsc2VcblxuXG5cbiIsImhpc3RvcnkiOlsxNT
-kwNzAwMDg5XX0=
+AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
+biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
+IsImhpc3RvcnkiOlstNTA1Mzc3MjldfQ==
 -->
