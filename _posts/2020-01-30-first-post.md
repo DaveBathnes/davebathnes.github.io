@@ -6,7 +6,7 @@ This blog uses the following tools and technologies.
 
 #### [GitHub pages](https://pages.github.com/). 
 
-These are a way of hosting webpages directly from GitHub repositories. 
+These are a way of hosting webpages directly from GitHub repositories. All that is required is a repository set to be publicly visible.
 
 #### [Jekyll](https://jekyllrb.com/)
 
@@ -31,8 +31,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFwiRmlyc3QgcG9zdFwiXG
 5kYXRlOiAyMDIwLTAxLTMxVDE2OjAwXG5jYXRlZ29yaWVzOlxu
 ICAtIGJsb2dcbnRhZ3M6XG4gIC0gSmVreWxsXG4gIC0gTWFya2
 Rvd25cbiAgLSBNZXJtYWlkXG4gIC0gQmxvZ1xucHVibGlzaGVk
-OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE0MDI4NDg0MC
-wtNzY3MTE3NDI5LDkyMjg2Njc4NiwtMTE3MzgzNjg2MiwxNDY4
-MTA5NzQ4LC0yMTIyNDAwNTUzLC0xNDY1Nzk3MDg1LC05ODY1OD
-Y5NzQsNDI5MDEwMzA5LDUxMTgxMjcwM119
+OiBmYWxzZVxuXG5cblxuIiwiaGlzdG9yeSI6WzE3MDgxMjE4OD
+YsLTc2NzExNzQyOSw5MjI4NjY3ODYsLTExNzM4MzY4NjIsMTQ2
+ODEwOTc0OCwtMjEyMjQwMDU1MywtMTQ2NTc5NzA4NSwtOTg2NT
+g2OTc0LDQyOTAxMDMwOSw1MTE4MTI3MDNdfQ==
 -->
