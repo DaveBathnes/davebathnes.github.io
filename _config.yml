@@ -38,7 +38,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dave Rowe"
+  name   : "Dave"
   avatar : "/assets/images/belleandsebastian_av.jpg"
   bio    : "Developer"
   links:
