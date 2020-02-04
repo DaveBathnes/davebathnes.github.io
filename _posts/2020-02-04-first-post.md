@@ -1,3 +1,16 @@
+title:  "Setting up a blog"  
+date: 2020-02-04T09:30  
+categories:  
+- blog  
+tags:  
+- Jekyll  
+- Markdown  
+- Blog  
+- Cloudflare  
+- GitHub  
+published:  false
+---
+
 This is the first blog post, it describes getting the blog up and running.
 
 ### Setup
@@ -46,6 +59,6 @@ Jsb2dcIlxuZGF0ZTogMjAyMC0wMi0wNFQwOTozMFxuY2F0ZWdv
 cmllczpcbiAgLSBibG9nXG50YWdzOlxuICAtIEpla3lsbFxuIC
 AtIE1hcmtkb3duXG4gIC0gQmxvZ1xuICAtIENsb3VkZmxhcmVc
 biAgLSBHaXRIdWJcbnB1Ymxpc2hlZDogZmFsc2VcblxuXG5cbi
-IsImhpc3RvcnkiOlstMTUxMTExNzYxMywtOTU3MzM3NDIyLDgz
-NzkzNDc3NCwtNTA1Mzc3MjldfQ==
+IsImhpc3RvcnkiOlstMTc0OTI3OTE5MiwtMTUxMTExNzYxMywt
+OTU3MzM3NDIyLDgzNzkzNDc3NCwtNTA1Mzc3MjldfQ==
 -->
