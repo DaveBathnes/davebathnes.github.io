@@ -1,6 +1,8 @@
 title: Dave Rowe
 email:
 description: Blog
+url: https://wwww.davesrowe.co.uk
+repository: davebathnes/davebathnes.github.io
 twitter_username:
 github_username: davebathnes
 minimal_mistakes_skin: default
@@ -45,6 +47,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davebathnes"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/10591287/dave-rowe"
 
 footer:
   links:
