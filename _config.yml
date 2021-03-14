@@ -51,7 +51,7 @@ author:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/10591287/dave-rowe"
     - label: "LinkedIn"
-      icon: "fab fa-fw linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/rowedave/"
 
 footer:
