@@ -2,7 +2,7 @@
 title: Finding a purpose
 date: 2024-02-08T21:30
 categories:
-  - Blog
+  - Philosophy
 tags:
   - Purpose
   - Lord Reith
@@ -13,7 +13,7 @@ published:  true
 
 Organisations should have a clear purpose, with teams and individuals also having a purpose of their own. A purpose for an organisation is the underlying reason the organisation exists, the 'why' for everything they do.
 
-I've heard it said that the core purpose for every business should be to make money. In some cases people don't even say this from self-interest, but in the interests of people they don't know. 'To make more money for shareholders' can be a mantra used to defend many business practices - from tax avoidance to paying low wages. A colleague (not in my current employment) once tried to explain to me that every business avoids tax, and it was their obligation to shareholders to do so. But that makes no sense - making money has no meaning as an end goal. It is a necessity to achieve other things, to pay good wages, and to remain viable, but not a purpose.
+I've heard it said that the core purpose for any business should be to make money. In some cases people don't even say this from self-interest, but in the interests of people they don't know. 'To make more money for shareholders' can be a mantra used to defend many business practices - from tax avoidance to paying low wages. A colleague (not in my current employment) once tried to explain to me that every business avoids tax, and it was their obligation to shareholders to do so. But that makes no sense - making money has no meaning as an end goal. It is a necessity to achieve other things, to pay good wages, and to remain viable, but not a purpose.
 
 About 20 years ago, I took a course on the ethical philosophy of Immanuel Kant. It was interesting (though very dense!), and the course became a useful forum to discuss modern day ethics in business situations. Some of the students were there because they were business leaders but struggled to define practices with a clear ethical foundation. 
 
@@ -31,9 +31,17 @@ That sounds good - I can subscribe to the idea of working towards progress, surv
 
 About business practices, my essay concluded:
 
-> "for a business to follow the harmony constraint it needs to follow four principles. To ensure its employees wellbeing (primarily through pay but this applies to all benefits), to provide employment for as many people as is reasonably possible, and to treat all employees in a fair manner with regards to pay and benefits. These three rules are then tempered by the constraint that a business must act in a way that ensures it remains competitive and that the livelihoods of its employees are protected and secure."
+> "for a business to follow the harmony constraint it needs to follow four principles:
+>
+> To ensure its employees wellbeing (primarily through pay but this applies to all benefits),
+>
+> to provide employment for as many people as is reasonably possible,
+>
+> and to treat all employees in a fair manner with regards to pay and benefits.
+>
+> These three rules are then tempered by the constraint that a business must act in a way that ensures it remains competitive and that the livelihoods of its employees are protected and secure."
 
-I can get behind that as well. A key purpose of all businesses should be the wellbeing and fair payment to all employees. And to as many as possible, if we reason that providing fair employment is a good thing for humankind.
+I can get behind that as well. A key purpose of all businesses should be the wellbeing and fair payment to all employees. And to as many as possible, if we reason that fair employment is a good thing for humankind.
 
 This is useful for basic employment practices but doesn't cover how we assess the activity of an organisation. If we're acting towards a flourishing humankind, that should lead to worthwhile activities, shouldn't it? Not necessarily. It's probable that Arms Manufacturers have a well-defined purpose that they easily reconcile with their core activity of making bombs and missiles that kill lots of people. That's a trouble with purposes that make big statements, it's easy to fit any activity into them.
 

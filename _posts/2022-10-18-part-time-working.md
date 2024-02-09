@@ -2,7 +2,7 @@
 title: Part time working
 date: 2022-10-27
 categories:
-  - Blog
+  - Work
 tags:
   - Working patterns
 published:  false

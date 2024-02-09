@@ -1,18 +1,17 @@
 ---
-title:  "Setting up a blog"
+title: Setting up a blog
 date: 2020-02-04T09:30
 categories:
   - Blog
 tags:
   - Jekyll
   - Markdown
-  - Blog
   - Cloudflare
   - GitHub
 published:  true
 ---
 
-This is the first blog post, it describes getting the blog up and running.
+This is the first blog post describing getting the blog up and running.
 
 ### Setup
 
